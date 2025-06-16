@@ -12,7 +12,7 @@ import {
     Button,
 } from "@heroui/react";
 import supabase from "../supabase/supabase-client";
-import SessionContext from "../context/sessionContext";
+import SessionContext from "../context/SessionContext";
 import { useNavigate } from "react-router";
 
 export default function Header() {

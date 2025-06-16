@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import supabase from "../supabase/supabase-client";
-import SessionContext from "../context/sessionContext";
+import SessionContext from "../context/SessionContext";
 import RealtimeChat from "./RealtimeChat";
 import { Input, Button } from "@heroui/react";
 
