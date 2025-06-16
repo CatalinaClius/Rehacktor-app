@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+}
+.main-wrapper {
+  min-height: 100vh;
+}
+
+nav > header {
+  padding-left: 20px !important;
+  padding-right: 0 !important;
+  max-width: 100% !important; 
+}
