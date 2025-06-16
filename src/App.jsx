@@ -1,5 +1,5 @@
 import { Routing } from './routes/Routing';
-import SessionProvider from './context/sessionProvider';
+import SessionProvider from './context/SessionProvider';
 import FavoritesProvider from './context/FavoritesProvider';
 
 
