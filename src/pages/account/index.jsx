@@ -1,6 +1,6 @@
 import supabase from "../../supabase/supabase-client";
 import { Input, Button } from "@heroui/react";
-import SessionContext from "../../context/sessionContext";
+import SessionContext from "../../context/SessionContext";
 import { useEffect, useState, useContext } from "react";
 import Avatar from "../../components/Avatar";
 

@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import SessionContext from "../../context/sessionContext";
+import SessionContext from "../../context/SessionContext";
 import FavoritesContext from "../../context/FavoritesContext";
 import { FaTrashAlt } from "react-icons/fa";
 import {

@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+
 import CardGame from "../../components/CardGame";
 import useFetchSolution from "../../hook/useFetchSolution";
 
